@@ -1,10 +1,16 @@
 _repo: Die-Bekanntschaft-auf-der-Reise_46767
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46767-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Ahlefeld, Charlotte von
     gutenberg_agent_id: '43945'
     url: http://www.gutenberg.org/2009/agents/43945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46767#Die-Bekanntschaft-auf-der-Reise
 gutenberg_issued: '2014-09-04'
 gutenberg_type: Text
 identifiers:
